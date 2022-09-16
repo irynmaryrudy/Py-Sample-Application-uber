@@ -6,7 +6,6 @@ gnureadline
 itsdangerous
 rauth
 requests
-wsgiref
-
 gunicorn
 Flask-SSLify
+pytest
