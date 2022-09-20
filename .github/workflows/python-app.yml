@@ -37,5 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         pip install betamax
-        sh app.py
         pytest
